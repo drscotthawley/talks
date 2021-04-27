@@ -1,0 +1,9 @@
+numpy 
+matplotlib
+fastai 
+mrspuff 
+plotly 
+bokeh 
+xattr
+Pillow
+RISE
