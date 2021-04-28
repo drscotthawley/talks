@@ -1,4 +1,3 @@
-This is a set of Jupyter slides rendered via RISE. 
+Click the Binder badge to launch the slideshow: 
 
-Click the Binder link --fingers crossed!
-
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/drscotthawley/talks/HEAD?filepath=SoTL_3DClass_April_2021%2FJoy-Of-3D-Slides.ipynb)
