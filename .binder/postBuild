@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+jupyter trust */*.ipynb  
+pip3 install rise 
+
