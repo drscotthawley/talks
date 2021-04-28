@@ -145,9 +145,9 @@ thinc==7.4.5
 threadpoolctl==2.1.0
 tifffile==2021.4.8
 toml==0.10.2
-torch==1.7.1+cu110
+torch==1.7.1
 torchaudio==0.7.2
-torchvision==0.8.2+cu110
+torchvision==0.8.2
 tornado==6.1
 tqdm==4.59.0
 traitlets==4.3.3
