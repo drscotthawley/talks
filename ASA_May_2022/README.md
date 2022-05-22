@@ -1,4 +1,4 @@
-### Click this button to launch the slideshow: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/drscotthawley/talks/HEAD?filepath=ASA_May_2022%2FMLAudioTools-Slides.ipynb)
+### Click this button to launch the slideshow: <a href="https://mybinder.org/v2/gh/drscotthawley/talks/HEAD?filepath=ASA_May_2022%2FMLAudioTools-Slides.ipynb" alt="Binder" target="_blank"><img src="https://mybinder.org/badge_logo.svg"></a>
 
 (Warning: Might take a few minutes for Binder to fully launch!)
 
@@ -27,6 +27,6 @@ To make a PDF of these slides (from [RISE docs](https://rise.readthedocs.io/en/s
    ```
    (ignore the web page that comes up)
 
-2. Click this link: http://127.0.0.1:8000/MLAudioTools-Slides.slides.html?print-pdf
+2. Click <a href="http://127.0.0.1:8000/MLAudioTools-Slides.slides.html?print-pdf" target="_blank">this link</a>.
 
 3. Save to PDF in Chrome using the print option
