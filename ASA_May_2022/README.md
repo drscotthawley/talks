@@ -1,4 +1,4 @@
-### Click this button to launch the slideshow: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/drscotthawley/talks/HEAD?filepath=ASA_May_2022%2FMLAudioTools-Slides.ipynb.ipynb)
+### Click this button to launch the slideshow: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/drscotthawley/talks/HEAD?filepath=ASA_May_2022%2FMLAudioTools-Slides.ipynb)
 
 (Warning: Might take a few minutes for Binder to fully launch!)
 
