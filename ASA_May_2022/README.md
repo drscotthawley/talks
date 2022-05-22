@@ -7,8 +7,9 @@
 
 # <span style="color:blue">Development tools for deep learning models of acoustical signal processing</span>
 ## Scott H. Hawley
-Department of Chemistry & Physics<br>
-College of Sciences and Mathematics
+<i>Affiliations:  
+◦ Professor of Physics, Belmont University, Nashville, TN, USA  
+◦ Harmonai</i>
 
 Acoustical Society of America Meeting, Denver CO USA, May 26, 2022
 
