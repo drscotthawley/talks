@@ -22,12 +22,11 @@ To make a PDF of these slides (from [RISE docs](https://rise.readthedocs.io/en/s
 
 1. Generate the slides and serve them using nbconvert:
 
-   `jupyter nbconvert --to slides MLAudioTools-Slides.ipynb --post serve`
+   ```bash
+   jupyter nbconvert --to slides MLAudioTools-Slides.ipynb --post serve
+   ```
+   (ignore the web page that comes up)
 
-   It opens up a webpage in the browser at http://127.0.0.1:8000/MLAudioTools-Slides.html#/
-
-2. Add `?print-pdf` to the query string as http://127.0.0.1:8000/MLAudioTools-Slides.slides.html?print-pdf
-
-   Note that you need to remove the `#` at the end. The page will render the slides vertically.
+2. Click this link: http://127.0.0.1:8000/MLAudioTools-Slides.slides.html?print-pdf
 
 3. Save to PDF in Chrome using the print option
