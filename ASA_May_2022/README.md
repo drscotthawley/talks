@@ -2,10 +2,10 @@
 
 (Warning: Might take a few minutes for Binder to fully launch!)
 
-*NB: You'll want to be on a desktop or laptop. The formatting gets all wonky on mobile devices.* 
+*NB: You'll want to be on a desktop or laptop. The formatting gets all wonky on mobile devices.*
 
 
-# Development tools for deep learning models of acoustical signal processing
+# <span style="color:blue">Development tools for deep learning models of acoustical signal processing</span>
 ## Scott H. Hawley
 Department of Chemistry & Physics<br>
 College of Sciences and Mathematics
@@ -31,4 +31,3 @@ To make a PDF of these slides (from [RISE docs](https://rise.readthedocs.io/en/s
    Note that you need to remove the `#` at the end. The page will render the slides vertically.
 
 3. Save to PDF in Chrome using the print option
-
