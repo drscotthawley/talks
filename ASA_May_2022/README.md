@@ -2,7 +2,7 @@
 
 (Warning: Might take a few minutes for Binder to fully launch!)
 
-*NB: You'll want to be on a desktop or laptop. The formatting gets all wonky on mobile devices. 🤷 The blog post I'm still writing will work on mobile, just not these slides.*
+*NB: You'll want to be on a desktop or laptop. The formatting gets all wonky on mobile devices.* 
 
 
 # Development tools for deep learning models of acoustical signal processing
